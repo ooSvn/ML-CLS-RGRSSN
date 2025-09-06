@@ -50,12 +50,3 @@ CHAS 5.1 %, DIS 5.3 %, B 4.0 %, MEDV 10.7 %.
 * **No evidence of over-fitting** after pruning – CV score ≈ test score.
 
 ---
-
-## 7. Repository Structure
-```
-.
-├── DataSet.xlsx
-├── Boston_Housing_HW.ipynb   # main notebook
-├── README.md                 # this file
-└── figures/                  # saved plots (optional)
-```
