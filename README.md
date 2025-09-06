@@ -1,10 +1,6 @@
 
 # Boston Housing – End-to-End Machine-Learning Mini-Project  
 
-> Author: *Your Name*  
-> Course: *Intro to ML* – Homework #X  
-> Date: *YYYY-MM-DD*
-
 ---
 
 ## 1. Goal
