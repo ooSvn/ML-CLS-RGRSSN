@@ -55,17 +55,6 @@ CHAS 5.1 %, DIS 5.3 %, B 4.0 %, MEDV 10.7 %.
 
 ---
 
-## 6. How to Reproduce
-```bash
-# 1. clone / unzip repo
-# 2. place DataSet.xlsx in the same folder
-jupyter notebook Boston_Housing_HW.ipynb   # run all cells
-```
-**Requirements**  
-`pandas numpy matplotlib seaborn scikit-learn xgboost` (Python ≥3.8)
-
----
-
 ## 7. Repository Structure
 ```
 .
